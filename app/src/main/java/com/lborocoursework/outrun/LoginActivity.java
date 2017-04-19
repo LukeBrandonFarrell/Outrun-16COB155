@@ -33,6 +33,16 @@ public class LoginActivity extends AppCompatActivity {
                 Login();
             }
         });
+
+        mRegisterLink.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                goToRegister();
+        }
+    });
+
+
+
     }
 
     private void Login() {
@@ -41,5 +51,14 @@ public class LoginActivity extends AppCompatActivity {
         //Transition to home screen
         Intent homeActivity = new Intent(this, HomeActivity.class);
         startActivity(homeActivity);
+    }
+
+
+    private void goToRegister(){
+
+
+        Intent signUpActivity = new Intent(this, SignupActivity.class);
+        startActivity(signUpActivity);
+
     }
 }
