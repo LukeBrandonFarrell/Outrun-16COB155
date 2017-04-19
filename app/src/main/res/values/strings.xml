@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">OutRun</string>
+    <string name="main_logo_content_description">logo</string>
+    <string name="start_run">START RUN</string>
+
+    <!-- LOGIN XML STRINGS -->
+    <string name="login_password">Password</string>
+    <string name="login_username_or_email">Username or Email</string>
+    <string name="login_login">LOGIN</string>
+    <string name="login_not_got_an_account">Not got an account?</string>
+    <string name="login_register_for_free">Register for free!</string>
+
+    <!-- SIGN UP XML STRINGS -->
+    <string name="signup_username">Username</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_average_miles_per_minute">Average miles per minute</string>
+    <string name="signup_got_an_account">Got an account?</string>
+    <string name="signup_login">Login</string>
+    <string name="signup_register">REGISTER</string>
+
+    <!-- HOME XML STRINGS -->
+    <string name="home_settings">Settings</string>
+    <string name="home_username">Username</string>
+    <string name="home_stats">Stats</string>
+    <string name="home_total_miles">Total Miles:</string>
+    <string name="home_times_caught">Times Caught:</string>
+    <string name="home_times_evaded">Times Evaded:</string>
+    <string name="home_average_pace">Average Pace:</string>
+    <string name="home_average_run_time">Average Run Time:</string>
+    <string name="home_history">History</string>
+    <string name="home_user_profile_image_content_description">User Profile Image</string>
+
+    <!-- RUN STARTS XML STRINGS -->
+    <string name="runstarts_cancel">Cancel</string>
+    <string name="runstarts_your_run_starts_in">Your run starts in:</string>
+
+    <!-- HISTORY XML STRINGS -->
+    <string name="history_history">History</string>
+    <string name="history_back">Back</string>
+
+    <!-- CURRENTLY RUNNING XML STRINGS -->
+    <string name="currentlyrunning_currently_running">Currently running…</string>
+    <string name="currentlyrunning_stop_run">Stop Run</string>
+
+    <!-- RUN COMPLETE XML STRINGS -->
+    <string name="runcomplete_run_again">Run Again</string>
+    <string name="runcomplete_run_complete">Run Complete</string>
+    <string name="runcomplete_caught_at">Caught at:</string>
+
+    <!-- SETTINGS XML STRINGS -->
+    <string name="settings_how_early_do_the_dogs_start_barking">How early do the dogs start barking?</string>
+    <string name="settings_volume">Volume:</string>
+    <string name="settings_outrun_threshold">Outrun Threshold:</string>
+    <string name="settings_delete_account">Delete Account</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_countdown_timer">Countdown Timer:</string>
+    <string name="settings_minutes_per_mile">Minutes per mile:</string>
+    <string name="settings_notifications">Notifications:</string>
+</resources>
